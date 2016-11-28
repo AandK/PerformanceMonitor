@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PerformanceMonitor</string>
+    <string name="app_des">监控指定进程的CPU占用率</string>
+</resources>
